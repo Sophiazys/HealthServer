@@ -308,6 +308,7 @@ type Apie struct {
   Age string       `json:"age"`
 
 }
+//api struct might be useful
 // type NfromApi struct{
 //   Foods []Nutrition `json:"foods"`
 // }
