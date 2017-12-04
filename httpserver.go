@@ -1,5 +1,4 @@
 package main
-//Vineet is super ugly
 import (
     "fmt"
     "net/http"
